@@ -68,9 +68,6 @@ const Navbar = class extends React.Component {
               </Link> <Link className="navbar-item" to="/about/teaching">
                 Teaching
               </Link>
-              <Link className="navbar-item" to="https://cheerful-dusk-f8a096.netlify.app/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/">
-                Teaching
-              </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
