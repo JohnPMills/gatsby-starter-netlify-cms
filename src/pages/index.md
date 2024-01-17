@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Research integrity
 image: /img/home-jumbotron.jpg
 heading: Research Integrity
 subheading: Support sustainable farming while enjoying a cup
